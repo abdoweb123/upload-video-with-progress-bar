@@ -1,5 +1,12 @@
 ## Description Pictures
-![Screenshot (142)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/1bfebf27-d1e4-41e0-8770-c65b03186081)
+![Screenshot (143)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/16fb9152-6738-40b4-a615-afab8c0ffb27)
+![Screenshot (144)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/f4cf30be-301b-4752-a2e8-2e14dfcbb9dc)
+![Screenshot (145)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/d8058287-3701-4926-bec6-d45dd0238b60)
+![Screenshot (146)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/6cce7508-d8d7-4505-bd2e-3f6085f96188)
+![Screenshot (147)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/e40763d2-925e-4019-8f2c-ec2d26f8f862)
+![Screenshot (148)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/709e5fa2-422b-4db6-b711-503f6aae53ad)
+![Screenshot (149)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/380ad0b5-5aa5-40e6-a092-d50d789d02b5)
+![Screenshot (142)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/15616633-1a02-4675-8114-d12612c9e909)
 
 
 
