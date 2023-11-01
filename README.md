@@ -1,13 +1,9 @@
 ## Description Pictures
-![Screenshot (143)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/16fb9152-6738-40b4-a615-afab8c0ffb27)
-![Screenshot (144)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/f4cf30be-301b-4752-a2e8-2e14dfcbb9dc)
-![Screenshot (145)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/d8058287-3701-4926-bec6-d45dd0238b60)
-![Screenshot (146)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/6cce7508-d8d7-4505-bd2e-3f6085f96188)
-![Screenshot (147)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/e40763d2-925e-4019-8f2c-ec2d26f8f862)
-![Screenshot (148)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/709e5fa2-422b-4db6-b711-503f6aae53ad)
-![Screenshot (149)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/380ad0b5-5aa5-40e6-a092-d50d789d02b5)
-![Screenshot (142)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/15616633-1a02-4675-8114-d12612c9e909)
-
+![Screenshot (142)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/bbf82da1-6bec-41c1-8347-cd4d4ef0215a)
+![Screenshot (148)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/221a6e8f-7372-43df-9e29-9d537abb8a26)
+![Screenshot (143)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/606f052f-95af-480c-bb17-f51b4c18850d)
+![Screenshot (145)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/67b85fc6-24f0-4a5d-b58c-51c54e580dbe)
+![Screenshot (149)](https://github.com/abdoweb123/upload-video-with-progress-bar/assets/96248035/67ae769e-906a-48b9-8e51-21af8a3992a9)
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
